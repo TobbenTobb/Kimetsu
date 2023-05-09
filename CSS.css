@@ -1,0 +1,42 @@
+#color{
+    color: blue;
+}
+
+.CFondo{
+    background-color: aquamarine;
+}
+
+#titulo{
+    color: brown;
+}
+
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1556911220-bff31c812dba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9uZG8lMjBkZSUyMGNvY2luYXxlbnwwfHwwfHw%3D&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: 1900px;
+    background-attachment: fixed;
+}
+
+#Border{ 
+    width: auto;
+    height: auto;
+    background: #8dbfce;
+    opacity: .8;
+    border: 10px solid rgba(2, 1, 0, .3)
+    
+    
+}
+
+/*p {
+    color: rgba(234, 240, 246, 0.8);
+   font-size: 48pt;
+   text-align: center;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background: #FF7A59;
+    opacity: .5;
+  }
